@@ -1,0 +1,1 @@
+A pair of Python scripts to implement a chat server and client over simple sockets 
